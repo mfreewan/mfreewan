@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - i Graduated from SDK Training Center as a **Full Stack Developer**
-- 🌱 I’m currently learning **  Mern Stack .**
+- 🌱 I’m currently learning **  Angular JS .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
